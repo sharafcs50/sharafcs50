@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my profile.
 I am new to HYF, I live in Genk, Belgium and a student of class 11_12.
 
-![Sharaf's Github Stats](https://github-readme-stats.vercel.app/api?username=sharafcs50&show_icons=true&theme=radical)
+![Sharaf's Github Stats](https://github-readme-stats.vercel.app/api?username=sharafcs50&show_icons=true&theme=merko)
 
 
 <!--
