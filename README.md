@@ -1,6 +1,9 @@
 ### Hi there 👋 Welcome to my profile.
 I am new to HYF, I live in Genk, Belgium and a student of class 11_12.
 
+[![Sharaf's Github Stats (https://github-readme-stats.vercel.app/api?username=sharafcs50)](https://github.com/sharafcs50/github-readme-stats)
+
+
 <!--
 **sharafcs50/sharafcs50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
