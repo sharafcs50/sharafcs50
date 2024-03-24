@@ -1,5 +1,5 @@
-### Hi there 👋 Welcome to my profile.
-I am new to HYF, I live in Genk, Belgium and a student of class 11_12.
+### Hi there 👋 Welcome to my Github.
+JS Developer - Javascript, HTML, CSS, Bootstrap, NodeJS, Express, MongoDB.
 
 ![Sharaf's Github Stats](https://github-readme-stats.vercel.app/api?username=sharafcs50&show_icons=true&theme=tokyonight)
 
